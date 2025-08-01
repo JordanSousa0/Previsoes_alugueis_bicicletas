@@ -89,7 +89,7 @@ O conjunto de dados contém:
 
 ---
 
-## 🧠 Próximos passos (sugestões)
+## 🧠 Próximos passos
 
 - Incluir variáveis externas como feriados municipais ou eventos.
 - Criar dashboards interativos com Streamlit ou Power BI.
